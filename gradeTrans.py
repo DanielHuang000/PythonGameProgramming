@@ -1,6 +1,7 @@
 #This program translate the point score to letter grade EX: A+,A etc
+from sys import argv
 
-score = int(input())
+score = int(argv[1])
 
 if score >100:
     print('good job for getting bonus, but still A+')
