@@ -1,0 +1,596 @@
+{\rtf1\ansi\ansicpg950\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 ArialMT;}
+{\colortbl;\red255\green255\blue255;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}
+{\list\listtemplateid6\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid6}
+{\list\listtemplateid7\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid7}
+{\list\listtemplateid8\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid8}
+{\list\listtemplateid9\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid801\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid9}
+{\list\listtemplateid10\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid901\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid10}
+{\list\listtemplateid11\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1001\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid11}
+{\list\listtemplateid12\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid12}
+{\list\listtemplateid13\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid13}
+{\list\listtemplateid14\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid14}
+{\list\listtemplateid15\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid15}
+{\list\listtemplateid16\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid16}
+{\list\listtemplateid17\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid17}
+{\list\listtemplateid18\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid18}
+{\list\listtemplateid19\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1801\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid19}
+{\list\listtemplateid20\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1901\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid20}
+{\list\listtemplateid21\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2001\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid21}
+{\list\listtemplateid22\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid22}
+{\list\listtemplateid23\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid23}
+{\list\listtemplateid24\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid24}
+{\list\listtemplateid25\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid25}
+{\list\listtemplateid26\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid26}
+{\list\listtemplateid27\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid27}
+{\list\listtemplateid28\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid28}
+{\list\listtemplateid29\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2801\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid29}
+{\list\listtemplateid30\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid2901\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid30}
+{\list\listtemplateid31\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3001\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid31}
+{\list\listtemplateid32\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid32}
+{\list\listtemplateid33\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid33}
+{\list\listtemplateid34\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid34}
+{\list\listtemplateid35\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid35}
+{\list\listtemplateid36\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid36}
+{\list\listtemplateid37\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid37}
+{\list\listtemplateid38\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid38}
+{\list\listtemplateid39\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3801\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid39}
+{\list\listtemplateid40\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid3901\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid40}
+{\list\listtemplateid41\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid4001\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid41}
+{\list\listtemplateid42\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid4101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid42}
+{\list\listtemplateid43\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid4201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid43}
+{\list\listtemplateid44\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid4301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid44}
+{\list\listtemplateid45\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid4401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid45}
+{\list\listtemplateid46\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid4501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid46}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}{\listoverride\listid15\listoverridecount0\ls15}{\listoverride\listid16\listoverridecount0\ls16}{\listoverride\listid17\listoverridecount0\ls17}{\listoverride\listid18\listoverridecount0\ls18}{\listoverride\listid19\listoverridecount0\ls19}{\listoverride\listid20\listoverridecount0\ls20}{\listoverride\listid21\listoverridecount0\ls21}{\listoverride\listid22\listoverridecount0\ls22}{\listoverride\listid23\listoverridecount0\ls23}{\listoverride\listid24\listoverridecount0\ls24}{\listoverride\listid25\listoverridecount0\ls25}{\listoverride\listid26\listoverridecount0\ls26}{\listoverride\listid27\listoverridecount0\ls27}{\listoverride\listid28\listoverridecount0\ls28}{\listoverride\listid29\listoverridecount0\ls29}{\listoverride\listid30\listoverridecount0\ls30}{\listoverride\listid31\listoverridecount0\ls31}{\listoverride\listid32\listoverridecount0\ls32}{\listoverride\listid33\listoverridecount0\ls33}{\listoverride\listid34\listoverridecount0\ls34}{\listoverride\listid35\listoverridecount0\ls35}{\listoverride\listid36\listoverridecount0\ls36}{\listoverride\listid37\listoverridecount0\ls37}{\listoverride\listid38\listoverridecount0\ls38}{\listoverride\listid39\listoverridecount0\ls39}{\listoverride\listid40\listoverridecount0\ls40}{\listoverride\listid41\listoverridecount0\ls41}{\listoverride\listid42\listoverridecount0\ls42}{\listoverride\listid43\listoverridecount0\ls43}{\listoverride\listid44\listoverridecount0\ls44}{\listoverride\listid45\listoverridecount0\ls45}{\listoverride\listid46\listoverridecount0\ls46}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0\b\fs22 \cf0 \expnd0\expndtw0\kerning0
+Important points of making money while traveling\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b0 \cf0 \
+1. The best travel jobs allow you to earn income while exploring the world. Here are real-life examples of people living the dream \'96 making money traveling abroad.\
+\
+2. Make money while traveling or slowly turning your travel blog into a business can help to pay off lots of cost for travel.\
+\
+3. Those traveling jobs may not be easy (or else everyone are going to do this). Many of those jobs require passion, specialized training, time commitment, and talent.\
+\
+4. Expat jobs: Its stands for \'93expatriate\'94, which means you work and live in a foreign country.\
+\
+5. Digital nomad jobs (vagabonding): work from their computers. This makes them location independent. As long as they have access to the internet, they can earn a living.\
+\
+6. Some of the jobs are pretty similar located worldwide. Plus the more experience you gain as a bartender, the more job opportunities will open up, with a potential for higher income.\
+\
+7. It will be difficult to find jobs at some popular location or touring spots, which will require careful planning of muir-destination tours and working location.\
+\
+8. Being a translator may also be a good idea in foreign countries, but people might have to know and speak lots of languages in order to translate.\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://expertvagabond.com/best-travel-jobs/"}}{\fldrslt \cf0 \ul \ulc0 http://expertvagabond.com/best-travel-jobs/}}\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b \cf0 17 Reasons Why Around the World Travel is Good For You\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b0 \cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls1\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ Commonly we all know that traveling can open our eyes to experience new things. We can also create meaningful relationships with foreigners and some unforgettable memories.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls2\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Traveling can helps you to find who you are, which also known as the process of learning yourself. People are able to \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls3\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ It can also be a chance to learn new skills. For example, its a good chance to import or learn some foreign languages by having communication with local people.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls4\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Meeting people makes traveling interesting, by meeting lots of different people we can learn about their history, culture, and their perspective.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls5\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Speak of perspective, all of us may have some blind spots on our perspectives, for example, we might only looking at one side in an world event since we belong to only one country. However, by visiting other countries we are able to learn to think in their shoes.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls6\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ Travel is also a process of challenging oneself, by setting a destination or goal and actually step out from your comfortable zone. People can show the world that they can live and fit in different environment.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.airtreks.com/ready/17-reasons-why-travel-is-good-for-you/"}}{\fldrslt \cf0 \ul \ulc0 http://www.airtreks.com/ready/17-reasons-why-travel-is-good-for-you/}}\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b \cf0 7 Things that are surprisingly offensive in Asia\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b0 \cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls7\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Here are a few tips to avoid while traveling in Asia. First,touching a person\'92s head is considered very rude is most parts of Asia. For example, in Buddhist culture the head is the highest part of the body and thought of as\'a0sacred. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls8\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+As an Asian, we often use chopsticks for meals, but we can also use other materials as well, such as spoons or forks.(depend on culture) In our culture, however, its really bad to stick the chopsticks upright in the rice. As that resemble funeral or death, its really impolite to do so.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls9\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+In some countries, its better to fit in their cultures to show your respect. For example, in India, Nepal, and some Muslim countries, its polite to eat with your hands.(right hand)Never point people with left hand to eat as it resembles a dirty hand.  \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls10\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Also, its really rude to reject offered food, or to join in a toast. For example, In Korea, its not polite to reject Korean beer, as thats a symbol of friendship. In China, if you can\'92t drink someone under the table, you\'92re a sitting duck as a business person\'97no one will take you seriously. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls11\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Spicy food is notorious for causing a runny nose, but if you don\'92t want to gross out your dinner companions, refrain from blowing your nose\'a0at the table in\'a0Japan, Korea or China. If you must, you must, but try to be discreet or get up and leave the table first.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls12\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ Watch your hands in some particular countries\'85.(really wired). Crossing your fingers in Vietnam does NOT mean that you\'92re wishing for good luck (much to my surprised chagrin). It\'92s the same as giving someone the finger or\'a0making the peace sign or \'93v\'94 for victory in Ireland and the UK.\'a0In Cambodia and other Southeast Asian countries, pointing with one finger is rude.  \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls13\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+In Asia countries its not necessary to tip, and its even insulting to leave a tip in countries like Japan. Japanese workers feel they are getting paid to do their job and take pride in doing it well.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.afar.com/magazine/7-things-that-are-surprisingly-offensive-in-asia?"}}{\fldrslt \cf0 \ul \ulc0 http://www.afar.com/magazine/7-things-that-are-surprisingly-offensive-in-asia?}}\
+\
+\
+cultural conflicts in travel\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b \cf0 \
+Cultural differences and conflicts in tourism: case study Dubai\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b0 \cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls14\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Some of the scientific research shows that culture determines human behaviors and shows differences on how people do things and receive information from the world. Just like what i found in previous research, people are not consciously aware of their culture before they come across foreign culture. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls15\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Getting deeper in the topic of cultural conflicts i travel, I found some of the specific vocabularies for these kinds of research. When two societies and their cultures are brought together by tourism which is called \'93guest-host relationship\'94. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls16\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Three types of encounters are identified between host and guest: tourist purchasing goods or services from host, being side by side for example on the beach and being face-to-face in order to change information or ideas.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls17\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+People in different countries must have different economic, cultural and social factors, which means the relationship will likely to be unequal or unbalance. Most of the time difficulties in relationship between host and guest are arisen from the lack of knowledge, understanding or sensitivity from tourists' side to local culture and customs.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls18\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+A good example for that is when a rich person travel to a economic poor countries, he or she might not be able to build some equal relationship with local people due to the fact that he is too wealthy. People in the whole area have to listen to him in order to earn the money. Also, the fact that he has higher education makes local people around him/her become unattractive.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls19\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ This is when the conflicts of cultural difference happened. \'93Conflicts are created from cultural differences that lead to differences in interactional behaviors and misunderstandings in interpretation. \'93(Resigner & Turner, 2003).\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls20\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ Cultural conflicts don\'92t often happened one sided or only on the traveler. People often ignore the cultural shock tourists and travelers bring to the locals. In fact, habits to the destination of the travelers or their action can cause a huge effects to the locals.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls21\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+For example, in poorer countries the image of Western tourists can be based on unreal tv-shows which cause expectations to be too high and result to bitterness (Dluzewska, 2008)\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.travel-conference.co.uk/commentries.php?paper=58#.V-x5zzI8VE4"}}{\fldrslt \cf0 \ul \ulc0 http://www.travel-conference.co.uk/commentries.php?paper=58#.V-x5zzI8VE4}}\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b \cf0 Tourism and cultural traveling\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b0 \cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls22\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+The tourism industry and the tourists can deal major influences on host communities at a different number of levels. On the one hand, tourism are known to preserve cultures, resurrect forgotten traditions, prevent cultural stagnation, and to earn money for locals.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls23\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+On the other hand, tourism can challenge existing values, social norms, traditions and behavior, and this can lead to situations of conflict. In extreme cases, resistance or violence can be the result. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls24\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+For the majority of the time, it would seem that as long as tourism delivers the economic and social benefits it frequently promises, problems are often tolerated and some measure of conflict is accepted. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls25\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+However, whenever tourism brings cultures together, whether freely or forced, a range of complex issues are invoked such as the nature of cultural identity, social and economic power relations, legal and moral rights and management responsibilities. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls26\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+This article shows the changing relationships between tourism and host cultures and explores the reasons why and how conflicts emerge, in a series of detailed case studies from many parts of the globe including the United Kingdom, the United States, Australia, New Zealand, Nepal, Tunisia, Spain, Peru, and Greece.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls27\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ Initiatives and good practices are highlighted whereby conflict can be replaced by consensus and situations improved through effective management. This book is essential reading for tourism industry professionals and students and researchers in anthropology, sociology and geography.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.cabi.org/bookshop/book/9780851992723"}}{\fldrslt \cf0 \ul \ulc0 http://www.cabi.org/bookshop/book/9780851992723}}\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b \cf0 Why and how do people travel\
+\
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls28\ilvl0
+\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+In order to discover more about traveling,  I started to find more reasons of why do people travels. different to what I found in research before. Some people are just traveling to meet themselves, which might happen to everyone if you are in a situation of losing yourself, or want to find out why you are created.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls29\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Its pretty weird to know that some people are traveling for answering questions of their lives. People at certain age or experiencing some certain situations, for example, achieve the highest goal of their life at a young age, can think their life is boring and unchangeable.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls30\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+ Few people are traveling to become a storyteller, in order to tell many stories or create many stories. Storytellers will have to collect those from the world. They have to meet various people around the world and experience all kinds of culture.\
+\ls30\ilvl0
+\fs24 \kerning1\expnd0\expndtw0 {\listtext	2.	}
+\fs22 \expnd0\expndtw0\kerning0
+Some people are just traveling to satisfy their food fetish. Its a pretty cultural things for experiencing a different kind of foods.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls31\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Artists travels a lot as well. Not only to exchange ideas with other artists or view other artists\'92s works, but also by enter a new area, places that he or she had never been to before, the artists would be able to gain new inspirations for their new creation of art.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls32\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+People who are doing business canals travel a lot. Trading with other companies or learning social skills can be done efficiently in a foreign countries and by traveling. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls33\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Not mentioning the fact that most of the people like me are just traveling for the sake of relaxing and enjoy life in a peaceful place. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://listaka.com/top-15-reasons-why-people-travel/"}}{\fldrslt \cf0 \ul \ulc0 http://listaka.com/top-15-reasons-why-people-travel/}}\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f1\b\fs24 \cf0 Ways to Keep the Peace with Your Travel Companion\
+\
+\pard\tx20\tx412\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li392\fi-393\partightenfactor0
+\ls34\ilvl0
+\f0\b0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\f1 \expnd0\expndtw0\kerning0
+Choosing your destination beforehand to make sure you have enough time to communicate and to discuss with your teammates traveling with you. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx412\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li392\fi-393\partightenfactor0
+\ls35\ilvl0
+\f0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\f1 \expnd0\expndtw0\kerning0
+Check each other\'92s energy levels is a tip while traveling, doe to the fact that having all members in your team to be energetic and ready to challenge themselves can give all the members great memories. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx412\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li392\fi-393\partightenfactor0
+\ls36\ilvl0
+\f0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\f1 \expnd0\expndtw0\kerning0
+Travelers can have different tastes and preferences while traveling together. A team will have to make plans according to all members\'92 needs, for example, spending equal time on all sights or activities can be a good idea for everyone in the team to have equal fun.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx412\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li392\fi-393\partightenfactor0
+\ls37\ilvl0
+\f0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\f1 \expnd0\expndtw0\kerning0
+Over schedule can be a really common problem that travelers often make. Some people have too many things to do in a trip even if they don\'92t have enough time on each point.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx412\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li392\fi-393\partightenfactor0
+\ls38\ilvl0
+\f0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\f1 \expnd0\expndtw0\kerning0
+To make your trip more efficient and fun, you should not be too strict on all your plans and time arrangements. Being flexible is another tip for travelers to plan their trips.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx412\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li392\fi-393\partightenfactor0
+\ls39\ilvl0
+\f0 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\f1 \expnd0\expndtw0\kerning0
+For the cultural issues that might occur in the trip. Some countries require travelers to speak fluent native languages, some other countries have religion restrictions for the travelers to follow.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.independenttraveler.com/travel-tips/travelers-ed/18-ways-to-keep-the-peace-with-your-travel-companion"}}{\fldrslt \cf0 \ul \ulc0 http://www.independenttraveler.com/travel-tips/travelers-ed/18-ways-to-keep-the-peace-with-your-travel-companion}}\
+\
+\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b \cf0 8 ways traveling helps couples succeed\
+\
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls40\ilvl0
+\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+The research shows that couples that travel more has less divorce rates than those who don\'92t. The other survey shows that 79% of the couples believed travel together has a positive impact on their relationship.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls41\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Traveling together is a way to share and express feelings. Couples who never traveled were 8% more likely to suggest their partner need to do a better job on expressing themselves.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls42\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Even though we all hope our own travel can be as peaceful as possible, everyone knows that travel can also be dangerous or having lots of troubles. As the result, travel can be a good time for couples to really know each others deeply. \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls43\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Its a combination of perspective, experience, habits\'85People can be just very different on solving a same problem, and have different reaction to the problem they face. When travel put a couple together in a situation, they will be able to not only know each other, but also accept each other.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls44\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+To go further and deeper on the topic of traveling, the article proved that traveling can let a couple understand why independence is necessary. The survey found that couples who travel agree they have  to have a good balance of time together and apart. Psychologist and relationship expert also proved that taking these breaks for yourself can be a healthy part of any relationship.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls45\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Believe it or not, traveling can also help you to keep sense of humor. Commonly known that humor comes form experience and wisdom, and that is just what people can gain from traveling.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx20\tx380\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\li360\fi-360\partightenfactor0
+\ls46\ilvl0
+\fs24 \cf0 \kerning1\expnd0\expndtw0 {\listtext	1.	}
+\fs22 \expnd0\expndtw0\kerning0
+Not everyone understand what \'93romantic" really means. Couples traveling together would find out romantic doesn\'92t comes from money, or food, or place. It comes for their mind and time spending together.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+\cf0 \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://matadornetwork.com/notebook/8-things-traveling-couples-better-couples-dont/"}}{\fldrslt \cf0 \ul \ulc0 http://matadornetwork.com/notebook/8-things-traveling-couples-better-couples-dont/}}\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://www.sugarscape.com/festival/news/a1080625/rules-for-travelling-with-friends/"}}{\fldrslt \cf0 \ul \ulc0 http://www.sugarscape.com/festival/news/a1080625/rules-for-travelling-with-friends/}}\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+{\field{\*\fldinst{HYPERLINK "http://lifehacker.com/how-to-travel-with-a-group-of-friends-and-not-lose-you-1451652555"}}{\fldrslt \cf0 \ul \ulc0 http://lifehacker.com/how-to-travel-with-a-group-of-friends-and-not-lose-you-1451652555}}\
+\
+\
+\
+\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b\fs40 \cf0 \
+GROUP ANNOTATED BIBLIOGRAPHY\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab720\partightenfactor0
+
+\b0\fs22 \cf0 \
+\
+\
+Peter\
+George\
+Nacy\
+Daniel\
+\
+\
+Annotated Bibliography\
+\
+\
+"6 Reasons Why Traveling Abroad Is Important for Young People Greenheart Travel." 6 \
+ 	Reasons Why Traveling Abroad Is Important for Young People | Greenheart Travel. 		Greenheart Travel, 16 Sept. 1024. Web. 05 Oct. 2016.\
+	{\field{\*\fldinst{HYPERLINK "https://greenhearttravel.org/travel-resources/6-reasons-why-traveling-abroad-is-"}}{\fldrslt \ul \ulc0 https://greenhearttravel.org/travel-resources/6-reasons-why-traveling-abroad-is-}}		\
+	important-for-young-peopl\
+\
+	The author recommend young people to oversea travel, although author also 			recommend all age kind of people to travel but  by going to another country they can 		learn a lot of life lesson.  It is a prime time to take advantage of your freedom and youth. 		By leave the comfort zone the young people often are still leave in parents house for few 	years ago, but by leave your own comfort zone, young people can learn how to talk and 		communicate with other people, which can learn a lot of social skill. Also traveling Bring 		confidence by gouging out and traveling you will have to be independence and  while in 		the other country you will also meet a lot different new fried. When you got home you will 	realize U CAN DO THINGS.\
+\
+\
+\
+@20stravel. "11 Reasons You Should Go to China Right Now." TwentySomething Travel. Steph, \
+	23 Feb. 2013. Web. 05 Oct. 2016.\
+	http://twenty-somethingtravel.com/2013/02/11-reasons-you-should-go-to-china/\
+\
+	China become one of the most popular place to study and travel because of the of its 		culture, language, history, and powerful influence in the global marketplace. Absurd 		Things Happen Hourly make Culturally, visiting China was like visiting another planet- 		one which was sometimes completely indecipherable and It\'92s odd and amusing and it 		constantly keeps you on your toes, therefore No matter in down town China or 			countryside things get always busy all the time, by obeyed the things around people can 		see some interesting things.Secondly their History is Longer Than Your History, and 		There are a lot of historical relics in China therefore going to China you can see many 		different history things, art and everything, although people always to go China for 		historical relics but it is impossible to visit even half of them.  Lastly the Cheapest 		Yummiest Street Food In China every kind of food are cheap and yummy, unlike the 		restaurant in USA, the on street there are a lot of delicious food that people in united 		state have never teast before.  By going to China most people will be amaze about how 		great and cheap there food is. \
+\
+\
+\
+\
+Sallao, Deanna. "10 Reasons Traveling Is The Only Thing You Buy That Makes You Richer." 		Thought Catalog. N.p., 13 July 2014. Web. 05 Oct. 2016.\
+	{\field{\*\fldinst{HYPERLINK "http://thoughtcatalog.com/deanna-sallao/2014/07/10-reasons-traveling-is-the-only-thing-"}}{\fldrslt \ul \ulc0 http://thoughtcatalog.com/deanna-sallao/2014/07/10-reasons-traveling-is-the-only-thing-}}		you-buy-that-makes-you-richer/\
+	\
+	Travel is the only thing you buy makes you richer. Experience is one of the most 			important thing you earn, it help you to think more and to see a view in a different way. \
+	It also help you stress your entire body and clear your mind from work. You will gain 		more self-confidence by challenge more and more of your weakness. Which mean you 		trust yourself more by gaining more confidence. Also travel gives you happiness, for 		some of the people, they challenge themselves on the trip, they gain happiness by that. 		By travel more, you meet more friends on the trip, and then different kinds of friends you 		made, will teach you more about what lifestyle you should learn. \
+\
+\
+Walsh, Danielle. "Why You Should Think Twice before Volunteering at an Orphanage Abroad." \
+	AFAR Media. N.p., 3 Aug. 2015. Web. 05 Oct. 2016.\
+	{\field{\*\fldinst{HYPERLINK "http://www.afar.com/magazine/why-you-should-think-twice-before-volunteering-at-an-"}}{\fldrslt \ul \ulc0 http://www.afar.com/magazine/why-you-should-think-twice-before-volunteering-at-an-}}		orphanage-abroad?email=calwehdeking			\
+	%{\field{\*\fldinst{HYPERLINK "http://40yahoo.com"}}{\fldrslt \ul \ulc0 40yahoo.com}}&utm_source=Sailthru&utm_medium=email&utm_campaign=orphanages\
+	%209%2013&utm_term=Daily%20Wander%20Newsletter\
+\
+\
+	You should think twice or more before volunteering at an Orphanage Abroad. It might 		seems a good idea to visit an orphanage, but actually there are too many children at 		those facilities around the world. Some of the children need secure, and to have a true 		long relationships with people who speak their language. When you abroad for volunteer 	at an orphanage, those children could only have some happiness for a short time, but 		how about when you leave the orphanage? Those children would dream that how good 		if they have a family like you. They could get even worth then before you guys helped. 		You will also have your own life to live in the future, it is impossible to stay with them 		forever, they have their own culture, own future to live. \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+"17 Reasons Why Around the World Travel Is Good For You." AirTreks. Bootsnall Travel \
+	Network, 18 July 2016. Web. 05 Oct. 2016. <{\field{\*\fldinst{HYPERLINK "http://www.airtreks.com/ready/17-reasons-"}}{\fldrslt \ul \ulc0 http://www.airtreks.com/ready/17-reasons-}}		why-travel-is-good-for-you/>.\
+\
+	This article provide lots of great reasons for traveling around with evidence and clear 		explanations. Most of the information in this source was based on only one author\'92s 		point of view, which might have some one-sided opinions. However, it\'92s also proved to 		be true personal experience, which can also be one of the good sources to use in the 		essay.\
+\
+	It is already a common knowledge that traveling gives travelers the opportunities to meet 	new people, visit new places, and have fun. However, traveling can also challenge the 		travelers by putting travelers in some difficult situations or unfamiliar regions. By facing 		and conquering all challenges, travelers are able to find themselves and gain new 		knowledge or skill. Just simply step out from our comfortable zone, we can experience a 		lot different things and gain new perspective, while viewing the our world. \
+\
+\
+\
+\
+\
+Maggie Fuller. 7 Things That Are Surprisingly Offensive in Asia. Afar Media, 18 Sept. \
+	2015. Web. 6 Oct. 2016. <{\field{\*\fldinst{HYPERLINK "http://www.afar.com/magazine/7-things-that-are-surprisingly-"}}{\fldrslt \ul \ulc0 http://www.afar.com/magazine/7-things-that-are-surprisingly-}}		offensive-in-asia>.\
+\
+	As one of the member of Asian people, I found those information given in the article 		really useful. I would said this article is also a good source for researching on the topic of 	cultural conflicts for traveling to Asian countries.\
+\
+	Traveling can create lots of great memories and give travelers lots of fun, however, 		traveling can also create cultural conflicts. For example, in Asia, it\'92s not a good idea to 		stick the chopsticks upright in the rice. As that resemble funeral or death, its really 		impolite to do so. Such cultural misunderstand can cause some unexpected conflicts in 		foreign countries. It is better to do some research beforehand to be prepare for those 		situations.\
+\
+\
+\
+\
+\
+\
+\
+\
+}
