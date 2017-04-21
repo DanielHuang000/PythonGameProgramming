@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import *
 
 
 class T03 (QWidget):
-  def __init__(self):
+   def __init__(self):
       super().__init__()
       self.dictStore = {}
       self.text = open('Task03.csv').read()
@@ -21,36 +21,31 @@ class T03 (QWidget):
 
 
 
-  def initUI(self):
+   def initUI(self):
       self.setGeometry(300, 300, 700, 400)
       self.setWindowTitle('Book Store GUI')
 
+      self.line1 = QLineEdit(self)
+      self.line1.resize(300,30)
+      self.line1.move(250, 50)
       self.combo1 = QComboBox(self)
       self.combo1.resize(150, 40)
       self.combo1.move(50, 50)
 
-      self.line1 = QLineEdit(self)
 
       for x in self.dictStore.keys():
           self.combo1.addItem(x)
 
+      self.combo1.currentIndexChanged.connect(self.getOutput)
+
+
       self.show()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   def getOutput(self):
+       self.key = self.combo1.currentText()
+       self.item = self.dictStore[self.key]
+       self.line1.setText(self.key + " cost " + self.item)
 
 
 # --- main program
